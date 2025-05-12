@@ -37,8 +37,7 @@ npm run dev
 (Inserisci qui uno screenshot della griglia in azione)
 ## 📌 Autore
 
-Realizzato con ❤️ da [Simone](https://github.com/tuo-username)  
-👉 Seguimi su GitHub per altri progetti: [github.com/tuo-username](https://github.com/tuo-username)
+Realizzato con ❤️ da [Simone](https://github.com/SimoneGiannecchini/Simone.github.io)  
 
 ---
 
