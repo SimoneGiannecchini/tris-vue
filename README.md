@@ -34,8 +34,8 @@ npm run dev
 ```
 ## 📌 Autore
 
-Realizzato con ❤️ da [Simone](https://github.com/tuo-username)  
-👉 Seguimi su GitHub per altri progetti: [github.com/tuo-username](https://github.com/tuo-username)
+Realizzato con  da Giannecchini Simone Full Stack Development e Ai👉 [ visita il sito web](https://github.com/SimoneGiannecchini/Simone.github.io) 
+Scopri altri progetti : 👉[ Seguimi su GitHub]([https://github.com/tuo-usernam](https://github.com/SimoneGiannecchini)
 
 ---
 
