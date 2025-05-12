@@ -38,7 +38,8 @@ npm run dev
 ## 📌 Autore
 
 Realizzato con ❤️ da Simone [👉 Seguimi su GitHub per altri progetti:](https://github.com/SimoneGiannecchini/Simone.github.io)  
-
+https://github.com/SimoneGiannecchini
+👉 Seguimi su GitHub per altri progetti: [github.com/tuo-username](https://github.com/SimoneGiannecchini)
 ---
 
 ## 📄 Licenza
