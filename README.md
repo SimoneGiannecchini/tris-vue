@@ -31,3 +31,17 @@ git clone https://github.com/SimoneGiannecchini/tris-vue.git
 cd tris-vue
 npm install
 npm run dev
+```
+---
+## 📸 Screenshot
+(Inserisci qui uno screenshot della griglia in azione)
+## 📌 Autore
+
+Realizzato con ❤️ da [Simone](https://github.com/tuo-username)  
+👉 Seguimi su GitHub per altri progetti: [github.com/tuo-username](https://github.com/tuo-username)
+
+---
+
+## 📄 Licenza
+
+Distribuito sotto [Licenza MIT](https://opensource.org/licenses/MIT)
