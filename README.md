@@ -34,7 +34,7 @@ npm run dev
 ```
 ## 📌 Autore
 
-Realizzato con  da Giannecchini Simone Full Stack Development e Ai👉 [ visita il sito web](https://github.com/SimoneGiannecchini/Simone.github.io) 
+Realizzato con  da Giannecchini Simone Full Stack Development e Ai👉 [ visita il sito web](https://simonegiannecchini.github.io/Simone.github.io/) 
 Scopri altri progetti : 👉[ Seguimi su GitHub]([https://github.com/tuo-usernam](https://github.com/SimoneGiannecchini)
 
 ---
