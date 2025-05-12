@@ -2,6 +2,8 @@
 
 Benvenuto in **Tris Vue**, un semplice ma elegante gioco del tris sviluppato con **Vue 3** e **Vite**.  
 Un mini-progetto pensato per due giocatori che si alternano con X e O su una griglia 3x3.
+
+
 🕹️ Clicca qui per giocare subito: [tris-vue su GitHub Pages](https://simonegiannecchini.github.io/tris-vue/)
 
 
