@@ -27,7 +27,7 @@ Un mini-progetto pensato per due giocatori che si alternano con X e O su una gri
 ## 🚀 Come avviare il progetto in locale
 
 ```bash
-git clone https://github.com/tuo-username/tris-vue.git
+git clone https://github.com/SimoneGiannecchini/tris-vue.git
 cd tris-vue
 npm install
 npm run dev
