@@ -44,7 +44,7 @@ npm run dev
 
 **Simone Giannecchini**  
 🧠 *Full-stack Developer e Ai*  
-🔗 [GitHub](https://SimoneGiannecchini/github.io)
+🔗 [GitHub](https://SimoneGiannecchini.github.io)
 
 
 ## 📄 Licenza
